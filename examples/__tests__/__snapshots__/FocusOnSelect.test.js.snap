@@ -28,21 +28,21 @@ exports[`FocusOnSelect Tests Activity Test 1`] = `
                         </div>
                     </div>
                 </div>
-                <div data-index=\\"0\\" class=\\"slick-slide slick-active slick-current\\" tabindex=\\"-1\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
+                <div data-index=\\"0\\" class=\\"slick-slide slick-active slick-current\\" tabindex=\\"0\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
                     <div>
                         <div tabindex=\\"-1\\" style=\\"width: 100%; display: inline-block;\\">
                             <h3>1</h3>
                         </div>
                     </div>
                 </div>
-                <div data-index=\\"1\\" class=\\"slick-slide slick-active\\" tabindex=\\"-1\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
+                <div data-index=\\"1\\" class=\\"slick-slide slick-active\\" tabindex=\\"0\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
                     <div>
                         <div tabindex=\\"-1\\" style=\\"width: 100%; display: inline-block;\\">
                             <h3>2</h3>
                         </div>
                     </div>
                 </div>
-                <div data-index=\\"2\\" class=\\"slick-slide slick-active\\" tabindex=\\"-1\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
+                <div data-index=\\"2\\" class=\\"slick-slide slick-active\\" tabindex=\\"0\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
                     <div>
                         <div tabindex=\\"-1\\" style=\\"width: 100%; display: inline-block;\\">
                             <h3>3</h3>
@@ -160,21 +160,21 @@ exports[`FocusOnSelect Tests Activity Test 2`] = `
                         </div>
                     </div>
                 </div>
-                <div data-index=\\"2\\" class=\\"slick-slide slick-active slick-current\\" tabindex=\\"-1\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
+                <div data-index=\\"2\\" class=\\"slick-slide slick-active slick-current\\" tabindex=\\"0\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
                     <div>
                         <div tabindex=\\"-1\\" style=\\"width: 100%; display: inline-block;\\">
                             <h3>3</h3>
                         </div>
                     </div>
                 </div>
-                <div data-index=\\"3\\" class=\\"slick-slide slick-active\\" tabindex=\\"-1\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
+                <div data-index=\\"3\\" class=\\"slick-slide slick-active\\" tabindex=\\"0\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
                     <div>
                         <div tabindex=\\"-1\\" style=\\"width: 100%; display: inline-block;\\">
                             <h3>4</h3>
                         </div>
                     </div>
                 </div>
-                <div data-index=\\"4\\" class=\\"slick-slide slick-active\\" tabindex=\\"-1\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
+                <div data-index=\\"4\\" class=\\"slick-slide slick-active\\" tabindex=\\"0\\" aria-hidden=\\"false\\" style=\\"outline: none; width: 0px;\\">
                     <div>
                         <div tabindex=\\"-1\\" style=\\"width: 100%; display: inline-block;\\">
                             <h3>5</h3>
