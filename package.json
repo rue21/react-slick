@@ -3,6 +3,7 @@
   "version": "0.28.2-r21",
   "description": "React port of slick carousel",
   "main": "./lib",
+  "private": false,
   "files": [
     "dist",
     "lib"
@@ -132,6 +133,6 @@
     "logo": "https://opencollective.com/opencollective/logo.txt"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.com/"
   }
 }
